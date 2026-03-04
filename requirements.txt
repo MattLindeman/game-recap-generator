@@ -1,0 +1,6 @@
+# Game Recap Generator — dependencies
+# Install with: pip install -r requirements.txt
+
+anthropic>=0.84.0
+streamlit>=1.43.0
+requests>=2.32.0
