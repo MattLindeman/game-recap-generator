@@ -8,7 +8,7 @@ Built as a portfolio project demonstrating API integration, data parsing, LLM pr
 
 ## Demo
 
-![App screenshot placeholder — replace with a screen recording or screenshot]
+<img width="1440" height="803" alt="game-recap-demo" src="https://github.com/user-attachments/assets/3c3baa2a-23d5-48ae-9fb3-22c73e789fef" />
 
 **Three recap styles, one game:**
 
@@ -230,6 +230,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built by [Your Name](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Built by [Your Name](https://github.com/MattLindeman) · [LinkedIn](https://linkedin.com/in/matt-lind)
 
 *Statistics / Data Science background · Sports analytics · Python*
