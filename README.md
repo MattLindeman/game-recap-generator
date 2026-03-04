@@ -230,6 +230,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built by [Your Name](https://github.com/MattLindeman) · [LinkedIn](https://linkedin.com/in/matt-lind)
+Built by [Matt Lindeman](https://github.com/MattLindeman) · [LinkedIn](https://linkedin.com/in/matt-lind)
 
 *Statistics / Data Science background · Sports analytics · Python*
